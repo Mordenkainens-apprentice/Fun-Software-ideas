@@ -9,16 +9,13 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Welcome to my repository, please put your ideas in the pull requests and I will see I can make them work._
 
 </header>
 
 <!--
   <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+
 -->
 
 ## Step 1: Enable GitHub Pages
